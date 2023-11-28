@@ -1,4 +1,4 @@
 image:
   name: us-docker.pkg.dev/orcasio/global/springboot-example
-  tag: 20230222-171605
+  tag: 20231128-110938
   pullPolicy: Always
